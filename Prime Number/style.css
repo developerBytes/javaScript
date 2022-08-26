@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+}
+
+center {
+    width: 400px;
+    padding: 20px 0;
+    margin: 120px auto;
+    background-color: #f5f4f4;
+    border: 2px solid #fff;
+    box-shadow: 2px 1px 10px 1px #888888;
+}
+
+h4,
+p {
+    color: #222;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+
+#btn {
+    color: #fff;
+    background-color: #2993eb;
+    border-radius: 5px;
+    border: 1px solid #91cbfa;
+    padding: 6px;
+    cursor: pointer;
+}
+
+#btn:hover {
+    color: #222;
+    background-color: #4d9bdb;
+}
